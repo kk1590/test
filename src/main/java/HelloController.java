@@ -10,4 +10,9 @@ public class HelloController {
     public String method01(){
         return "abc";
     }
+
+    public void test(){
+
+        System.out.println("测试");
+    }
 }

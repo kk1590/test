@@ -15,4 +15,10 @@ public class HelloController {
 
         System.out.println("测试");
     }
+
+
+    public void test2(){
+
+        System.out.println("测试2");
+    }
 }

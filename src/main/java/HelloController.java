@@ -21,4 +21,9 @@ public class HelloController {
 
         System.out.println("测试2");
     }
+
+    public void test3(){
+
+        System.out.println("测试3");
+    }
 }
